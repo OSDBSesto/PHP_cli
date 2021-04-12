@@ -1,4 +1,4 @@
-<!-- insert a user record in DB  (username, password, nome, cognome)-->
+<!-- insert a user (from console) record in DB  (username, password, nome, cognome)-->
 
 <?php
 
